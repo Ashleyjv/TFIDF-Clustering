@@ -1,0 +1,682 @@
+module_name
+simpl modul to resolv modul namespac
+time
+convers of given time input into proper format
+requests
+python http for humans.
+datetime
+thi packag provid a datetim data type, as known from zope. unless you need to commun with zope apis, you'r probabl better off use python' built-in datetim module.
+argparse
+python command-lin pars librari
+logging
+a log modul for python
+pyautogui
+pyautogui let python control the mous and keyboard, and other gui autom tasks. for windows, macos, and linux, on python 3 and 2.
+bs4
+dummi packag for beauti soup
+hashlib
+secur hash and messag digest algorithm librari
+calendar
+calendr calcul modul
+colorama
+cross-platform color termin text.
+multiprocessing
+backport of the multiprocess packag to python 2.4 and 2.5
+numpy
+fundament packag for array comput in python
+asyncio
+refer implement of pep 3156
+controller
+enabl connect to controllerapp
+ctypes
+creat and manipul c data type in python, call function in share librari
+utils
+a grab-bag of util function and object
+exceptions
+a more meaning exception' collect for python
+api
+consum an api from readm build
+constants
+the simpl way to deal with environ constants.
+flask
+a simpl framework for build complex web applications.
+config
+a hierarchical, easy-to-use, power configur modul for python
+fake_useragent
+up-to-d simpl userag faker with real world databas
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+configparser
+updat configpars from stdlib for earlier pythons.
+ssl
+ssl wrapper for socket object (2.3, 2.4, 2.5 compatible)
+pip
+the pypa recommend tool for instal python packages.
+contrib
+a python packag for make stack area plot of contribut over time.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+cryptography
+cryptographi is a packag which provid cryptograph recip and primit to python developers.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+typing
+type hint for python
+pip
+the pypa recommend tool for instal python packages.
+colorlog
+add colour to the output of python' log module.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+structures
+declar binari build and parsing: simple, fast and extens
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+http
+http librari for python
+email
+standalon email packag
+importlib
+backport of importlib.import_module() from python 2.7
+py
+librari with cross-python path, ini-parsing, io, code, log facil
+enums
+enums: enumer type for python
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+ansi
+ansi cursor movement and graphic
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+upload
+文档分享程序
+wrappers
+conveni wrapper around exist modul
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+monkey
+a packag that provid tool for guerilla (monkey)-patching.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+wait
+python wait util
+util
+function that should be in the python standard library.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+lxml
+power and python xml process librari combin libxml2/libxslt with the elementtre api.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+csv
+fast csv parser for python
+cache
+cach for human
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+genshi
+a toolkit for gener of output for the web
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+html
+simple, eleg html, xhtml and xml gener
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+fields
+contain class boilerpl killer.
+response
+your handi frequenc and impuls respons process object
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+codec
+a data transform package, i.e. to encod and decod data
+util
+function that should be in the python standard library.
+util
+function that should be in the python standard library.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+poolmanager
+simpl pool manag
+logging
+a log modul for python
+wrapper
+a wrapper around sever apis.
+wrapper
+respons is a request object, which is much extend for custom error handling.
+wrapper
+the avail api are:
+wrapper
+eandata
+wrapper
+locu
+wrapper
+spoonacular
+wrapper
+walmart
+wrapper
+zomato
+distutils
+python distribut util
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pathlib
+object-ori filesystem path
+dis
+a simpl test
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+markers
+a data label widget for use with markers.ai
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+url
+url pars
+logging
+a log modul for python
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+labels
+cli app for manag github label for python 3.6 and newer. 📝
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+serializer
+easi object serialization. mimic ror activerecord serializer.
+cryptography
+cryptographi is a packag which provid cryptograph recip and primit to python developers.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+auth
+author for human
+pip
+the pypa recommend tool for instal python packages.
+email
+standalon email packag
+util
+function that should be in the python standard library.
+pip
+the pypa recommend tool for instal python packages.
+winterm
+...
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+signal
+send sm messag via adb and your android phone. come with a cli.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+wheel
+a built-packag format for python
+build
+a simple, correct python build frontend
+models
+python model for schema-less databases.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+base
+thi is a test packag for pack python liberari tutorial.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+database
+python databas connect support portabl sql mode
+pip
+the pypa recommend tool for instal python packages.
+util
+function that should be in the python standard library.
+select
+css selector for pars html on the command line
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+util
+function that should be in the python standard library.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+distutils
+python distribut util
+bindings
+a namespac for python bind modul
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+distutils
+python distribut util
+cryptography
+cryptographi is a packag which provid cryptograph recip and primit to python developers.
+util
+function that should be in the python standard library.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+timeout
+python timeout decor
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+util
+function that should be in the python standard library.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+hooks
+conveni git hook
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+version
+implement of semant version
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+file_cache
+cach datafram with local hd5 file, and reduc the memori by convert type for number
+importlib
+backport of importlib.import_module() from python 2.7
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+redis_cache
+a data cach implement base on redi and redis_structures.
+pip
+the pypa recommend tool for instal python packages.
+serialize
+a common api for multipl serial format with support for custom class
+distutils
+python distribut util
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+ctypes
+creat and manipul c data type in python, call function in share librari
+resources
+resourc center rest api client
+hmac
+hmac (keyed-hash for messag authentication) python module.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+util
+function that should be in the python standard library.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+functools
+fast tool for function program
+distutils
+python distribut util
+uuid
+uuid object and gener function (python 2.3 or higher)
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+six
+python 2 and 3 compat util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+cookies
+friendlier rfc 6265-compliant cooki parser/render
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+email
+standalon email packag
+metadata
+metadata for human
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+dirtools
+exclude/ignor file in a directori (use .gitignor like syntax), comput hash, search project for an entir directori tree and gzip compression.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+importlib
+backport of importlib.import_module() from python 2.7
+pip
+the pypa recommend tool for instal python packages.
+ipaddress
+ipv4/ipv6 manipul librari
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+setuptools
+easili download, build, install, upgrade, and uninstal python packag
+pip
+the pypa recommend tool for instal python packages.
+retry
+easi to use retri decorator.
+lxml
+power and python xml process librari combin libxml2/libxslt with the elementtre api.
+numbers
+interest numbers!
+pip
+the pypa recommend tool for instal python packages.
+undetected_chromedriver
+('selenium.webdriver.chrom replac with compatibl for brave, and other chromium base browsers.', 'not trigger by cloudflare/imperva/hcaptcha and such.', 'note: result may vari due to mani factors. no guarante are given, except for ongo effort in understand detect algorithms.')
+fake_headers
+packag for gener header to http requests.
+webdriver_manager
+librari provid the way to automat manag driver for differ browser
+providers
+provid is a simpl librari to enabl function signatur inherit and depend inject in a reusabl and gener way.
+common
+common tool and data structur implement in pure python.
+ext
+monkey patch support for built-in type in cpython (3.x)
+distutils
+python distribut util
+errors
+unknown
+service
+easi implement of background servic
+pip
+the pypa recommend tool for instal python packages.
+structs
+python data structur for humans.
+pip
+the pypa recommend tool for instal python packages.
+pandas
+power data structur for data analysis, time series, and statist
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+firefox_profile
+util to access firefox profil data.
+errorhandler
+a log framework handler that track when messag abov a certain level have been logged.
+pip
+the pypa recommend tool for instal python packages.
+safari
+python util for safari.
+common
+common tool and data structur implement in pure python.
+pip
+the pypa recommend tool for instal python packages.
+distutils
+python distribut util
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+enum
+robust enumer type support in python.
+ast
+convers between protobuf3 and srcml.
+distutils
+python distribut util
+remote
+remot librari
+pip
+the pypa recommend tool for instal python packages.
+factory
+object orient curri
+pip
+the pypa recommend tool for instal python packages.
+pip
+the pypa recommend tool for instal python packages.
+actions
+declar action
+ie
+valid of brazilian state registr number
+common
+common tool and data structur implement in pure python.
+pip
+the pypa recommend tool for instal python packages.
+ie
+valid of brazilian state registr number
+email
+standalon email packag
+options
+simple, super-flex options. doe magic upon request.
+chrome
+chrome
+multiprocessing
+backport of the multiprocess packag to python 2.4 and 2.5
+edge
+python bind for direct edge' api
+pip
+the pypa recommend tool for instal python packages.
+tags
+a toolkit to creat html code with python
+util
+function that should be in the python standard library.
+opera
+lightweight tosca orchestr
+interaction
+python librari for creat progress bar
+pip
+the pypa recommend tool for instal python packages.
+urllib3
+http librari with thread-saf connect pooling, file post, and more.
+chrome
+chrome
